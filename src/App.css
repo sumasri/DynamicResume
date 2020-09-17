@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.Resume{
+  background-color: honeydew;
+  border-radius: 15px;
+  width:500px;
+ padding: 20px;
+  margin-left:10%;
+  margin-top: 20px;
+}
+body{
+  background-color: rgb(181, 207, 255);
+}
